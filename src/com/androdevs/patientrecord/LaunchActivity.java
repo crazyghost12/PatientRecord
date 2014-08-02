@@ -37,7 +37,7 @@ public class LaunchActivity extends Activity {
 	}
 
 	public void addPatient(View view) {
-		Toast.makeText(this, "Will be implemented later", Toast.LENGTH_SHORT)
+		Toast.makeText(this, "Will be implemented soon", Toast.LENGTH_SHORT)
 				.show();
 	}
 
